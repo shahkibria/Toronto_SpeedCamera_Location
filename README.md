@@ -5,4 +5,4 @@ The city of Toronto added 50 new speed camera locations on early May 2021 but th
 
 NOTE: If the speed cameras are changed, the map will not be updated. Also the locations are approximate coordinates. The coordinates were not taken from any official source and I am not responsible if they are not absolutely correct. 
 
-
+![](https://github.com/shahkibria/Toronto_SpeedCamera_Location/blob/main/Map%20Screenshot.png)
